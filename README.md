@@ -1,0 +1,2 @@
+# gulimall_base
+ 
