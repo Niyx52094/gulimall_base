@@ -1,7 +1,7 @@
 # gulimall_base
 
 ## 1.分布式基础篇总结
-微服务，注册中心，配置中心，远程调用，Feign，网关Gateway
+微服务，注册中心（Nacos），配置中心（Nacos），远程调用（Feign），网关（Gateway）
 ## 2.基础开发
 * SpringBoot2.0
 * SpringCloud
